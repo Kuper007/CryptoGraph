@@ -265,3 +265,6 @@ the function `updateGraph()` that we have already seen.
         ...
 }
 ```
+
+
+  ![](https://cdn1.savepice.ru/uploads/2018/6/21/82278a6ef369ea0195915b7d52de5c28-full.png)
